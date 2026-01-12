@@ -1,14 +1,12 @@
 # Orfid
 
-Orfid is a public-interest reporting platform designed to help individuals
+Orfid is a public interest reporting platform designed to help individuals
 securely document concerns about public services, public authorities, and
-institutional conduct — without asserting truth, blame, or outcome.
+institutional conduct without asserting truth, blame, or outcome.
 
 The platform exists to preserve information, context, and evidence in a
 procedurally neutral way, so that concerns can be recorded responsibly and
 examined by humans, not decided by systems.
-
----
 
 ## Why Orfid Exists
 
@@ -32,8 +30,6 @@ Orfid is designed to sit **between silence and accusation**.
 
 It provides a place to *record*, not to judge.
 
----
-
 ## What Orfid Is (and Is Not)
 
 **Orfid is:**
@@ -53,7 +49,6 @@ It provides a place to *record*, not to judge.
 The platform does not determine credibility, intent, or severity.
 Those judgments remain external and human.
 
----
 
 ## Platform Philosophy
 
@@ -73,7 +68,6 @@ Orfid is built on four core principles:
 4. **Human accountability**  
    All meaningful decisions remain the responsibility of people, not software.
 
----
 
 ## Modular Design
 
@@ -87,7 +81,6 @@ No single module has authority to determine meaning or outcome.
 Visuals and diagrams in this repository are **illustrative only** and
 do not describe executable behaviour.
 
----
 
 ## Status
 
@@ -99,7 +92,6 @@ Executable code, live systems, and operational logic are maintained separately.
 Nothing here should be interpreted as a live service guarantee, legal advice,
 or an assertion of system capability beyond design intent.
 
----
 
 ## Audience
 
@@ -111,7 +103,6 @@ This project is intended to be legible to:
 
 Clarity and restraint are deliberate.
 
----
 
 ## Contact and Enquiries
 
